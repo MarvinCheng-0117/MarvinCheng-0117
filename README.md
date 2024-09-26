@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding 
 - 📫 How to reach me 3481651053@qq.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i'm broing
+- ⚡ Fun fact: NO
 
 <!---
 MarvinCheng-0117/MarvinCheng-0117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
